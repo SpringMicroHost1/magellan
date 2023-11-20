@@ -1,3 +1,4 @@
+<!-- Extra comment for testing purposes -->
 <script>
     /** @type {import('./$types').PageData} */
     export let data;
